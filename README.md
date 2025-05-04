@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustin</h1>
 <h3 align="center">A Data enthusiast based in Argentina</h3>
 
--  I’m currently learning **PyTorch and TensorFlow**
+-  I enjoy working with data and learning new technologies, i invite you to check my projects :)
 
 -  How to reach me **periagustin55@gmail.com**
 
