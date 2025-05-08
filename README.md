@@ -1,10 +1,46 @@
-<h1 align="center">Hi 👋, I'm Agustin</h1>
-<h3 align="center">A Data enthusiast based in Argentina</h3>
+# 👋 Hi there, I'm Agustín Peri
 
--  I enjoy working with data and learning new technologies, i invite you to check my projects :)
+🎓 I’m a senior Data Science student at Universidad Empresarial 'Siglo 21' with a strong passion for using data to solve real-world problems. I specialize in data analysis, data visualization, and building predictive models with Python.
 
--  How to reach me **periagustin55@gmail.com**
+💡 My goal is to transform raw data into actionable insights that support evidence-based decision-making. I enjoy exploring new technologies and constantly improving my technical skills.
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack & Skills
+
+- **Languages:** Python, SQL  
+- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Jupyter Notebook  
+- **Data Visualization:** Tableau, Seaborn, Matplotlib  
+- **Other tools:** Git & GitHub, Google Sheets, Excel  
+- **Interests:** Machine Learning, Data Engineering, ETL Pipelines, Business Intelligence
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 [Exploratory Data Analysis & ML](https://github.com/AgustinP-eri/Exploratory-Data-Analysis-ML)
+An end-to-end data science project involving:
+- Exploratory Data Analysis (EDA)
+- Data preprocessing (cleaning, encoding, scaling)
+- Basic machine learning models using Scikit-learn
+- Data visualization with Seaborn & Matplotlib
+
+📈 Goal: Demonstrate how to extract insights and build predictive models from raw data.
+
+---
+
+## 📈 Currently Looking For
+
+I'm seeking my **first internship or junior role** in:
+- Data Analysis
+- Data Science
+- Big Data or Business Intelligence
+
+I’m a fast learner, self-driven, and passionate about continuous growth in the data field. Open to remote opportunities and collaborative projects!
+
+---
+
+## 📫 Let’s Connect!
+
+- 📍 Argentina (open to remote roles)
+- 🌐
