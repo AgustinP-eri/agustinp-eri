@@ -10,7 +10,7 @@
 
 - **Languages:** Python, SQL  
 - **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Jupyter Notebook  
-- **Data Visualization:** Tableau, Seaborn, Matplotlib  
+- **Data Visualization:** Tableau, Seaborn, Matplotlib, Looker, Power BI  
 - **Other tools:** Git & GitHub, Google Sheets, Excel  
 - **Interests:** Machine Learning, Data Engineering, ETL Pipelines, Business Intelligence
 
