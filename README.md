@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Agustín Peri
+# 👋 Hi there, I'm Agustín
 
 🎓 I’m a senior Data Science student at Universidad Empresarial 'Siglo 21' with a strong passion for using data to solve real-world problems. I specialize in data analysis, data visualization, and building predictive models with Python.
 
