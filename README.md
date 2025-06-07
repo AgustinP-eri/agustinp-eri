@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack & Skills
 
-- **Languages:** Python, SQL  
+- **Languages:** Python, SQL, Julia  
 - **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Jupyter Notebook  
 - **Data Visualization:** Tableau, Seaborn, Matplotlib, Looker, Power BI  
 - **Other tools:** Git & GitHub, Google Sheets, Excel  
