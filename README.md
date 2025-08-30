@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Agustín
 
-🎓 I’m a senior Data Science student at Universidad Empresarial 'Siglo 21' with a strong passion for using data to solve real-world problems. I specialize in data analysis, data visualization, and building predictive models with Python.
+🎓 I’m a senior Data Science student at Universidad Empresarial 'Siglo 21' with a strong passion for using data to solve real-world problems. I specialize in data analysis, data visualization, and building ML models with Python.
 
 💡 My goal is to transform raw data into actionable insights that support evidence-based decision-making. I enjoy exploring new technologies and constantly improving my technical skills.
 
