@@ -16,8 +16,7 @@
 
 ### 📂 Proyectos destacados  
 - **Exploratory-Data-Analysis-ML** – Flujo completo de ciencia de datos: EDA, preprocesamiento y modelos.  
-- **Basic-Sales_Database** – Base de datos relacional para gestión de ventas.  
-- **EDA-y-Analisis** – Análisis de datos reales sobre vinos, extracción de insights, visualizaciones.  
+- **sommelierNLP** – Análisis de datos reales sobre vinos, extracción de insights, visualizaciones Creacion de modelo NLP y Agente IA recomendador de vinos.  
 
 ### 📬 Contacto  
 - Email: periagustin55@gmail.com  
