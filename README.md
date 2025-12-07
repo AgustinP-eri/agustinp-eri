@@ -1,46 +1,28 @@
-# 👋 Hi there, I'm Agustín
+# 👋 Hola, soy Agustín “datawithgus”
 
-🎓 I’m a senior Data Science student at Universidad Empresarial 'Siglo 21' with a strong passion for using data to solve real-world problems. I specialize in data analysis, data visualization, and building ML models with Python.
+### 📊 Sobre mí  
+- Data Scientist 🇦🇷, con pasión por transformar datos en conocimiento.  
+- Me interesa el análisis exploratorio, bases de datos, machine learning y visualización de datos.  
+- Siempre en busca de aprender nuevas tecnologías y mejorar mis habilidades.
 
-💡 My goal is to transform raw data into actionable insights that support evidence-based decision-making. I enjoy exploring new technologies and constantly improving my technical skills.
+### 🛠️ Habilidades & Tecnologías  
+| Lenguajes / Herramientas | Nivel / Uso |
+|-------------------------|-------------|
+| Python (Pandas, NumPy) | ✅ Uso frecuente |
+| SQL / MySQL / SQLite   | ✅ Diseño y consultas de bases de datos |
+| MongoDB                | ✅ Bases de datos NoSQL |
+| Jupyter Notebook       | ✅ Entornos de análisis y experimentación |
+| Sci-kit Learn / Seaborn / Visualización de datos | ✅ Modelado y gráficos |
 
----
+### 📂 Proyectos destacados  
+- **Exploratory-Data-Analysis-ML** – Flujo completo de ciencia de datos: EDA, preprocesamiento y modelos.  
+- **Basic-Sales_Database** – Base de datos relacional para gestión de ventas.  
+- **EDA-y-Analisis** – Análisis de datos reales sobre vinos, extracción de insights, visualizaciones.  
 
-## 🛠️ Tech Stack & Skills
-
-- **Languages:** Python, SQL, Julia  
-- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Jupyter Notebook  
-- **Data Visualization:** Tableau, Seaborn, Matplotlib, Looker, Power BI  
-- **Other tools:** Git & GitHub, Google Sheets, Excel  
-- **Interests:** Machine Learning, Data Engineering, ETL Pipelines, Business Intelligence
-
----
-
-## 🚀 Featured Projects
-
-### 🔍 [Exploratory Data Analysis & ML](https://github.com/AgustinP-eri/Exploratory-Data-Analysis-ML)
-An end-to-end data science project involving:
-- Exploratory Data Analysis (EDA)
-- Data preprocessing (cleaning, encoding, scaling)
-- Basic machine learning models using Scikit-learn
-- Data visualization with Seaborn & Matplotlib
-
-📈 Goal: Demonstrate how to extract insights and build predictive models from raw data.
+### 📬 Contacto  
+- Email: periagustin55@gmail.com  
+- Instagram: [@aagustinperi](https://www.instagram.com/aagustinperi)  
 
 ---
 
-## 📈 Currently Looking For
-
-I'm seeking my **first internship or junior role** in:
-- Data Analysis
-- Data Science
-- Big Data or Business Intelligence
-
-I’m a fast learner, self-driven, and passionate about continuous growth in the data field. Open to remote opportunities and collaborative projects!
-
----
-
-## 📫 Let’s Connect!
-
-- 📍 Argentina (open to remote roles)
-- 🌐
+> “Convierte datos en decisiones útiles”  
