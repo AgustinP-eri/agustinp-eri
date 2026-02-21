@@ -1,4 +1,4 @@
-# 👋 Hola, soy Agustín “datawithgus”
+#  Hola, soy Agustín
 
 ### 📊 Sobre mí  
 - Data Scientist 🇦🇷, con pasión por transformar datos en conocimiento.  
