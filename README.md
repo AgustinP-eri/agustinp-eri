@@ -1,27 +1,10 @@
-#  Hola, soy Agustín
-
-### 📊 Sobre mí  
-- Data Scientist 🇦🇷, con pasión por transformar datos en conocimiento.  
-- Me interesa el análisis exploratorio, bases de datos, machine learning y visualización de datos.  
-- Siempre en busca de aprender nuevas tecnologías y mejorar mis habilidades.
-
-### 🛠️ Habilidades & Tecnologías  
-| Lenguajes / Herramientas | Nivel / Uso |
-|-------------------------|-------------|
-| Python (Pandas, NumPy) | ✅ Uso frecuente |
-| SQL / MySQL / SQLite   | ✅ Diseño y consultas de bases de datos |
-| MongoDB                | ✅ Bases de datos NoSQL |
-| Jupyter Notebook       | ✅ Entornos de análisis y experimentación |
-| Sci-kit Learn / Seaborn / Visualización de datos | ✅ Modelado y gráficos |
-
-### 📂 Proyectos destacados  
-- **Exploratory-Data-Analysis-ML** – Flujo completo de ciencia de datos: EDA, preprocesamiento y modelos.  
-- **sommelierNLP** – Análisis de datos reales sobre vinos, extracción de insights, visualizaciones Creacion de modelo NLP y Agente IA recomendador de vinos.  
-
-### 📬 Contacto  
-- Email: periagustin55@gmail.com  
-- Instagram: [@aagustinperi](https://www.instagram.com/aagustinperi)  
-
----
-
-> “Convierte datos en decisiones útiles”  
+Agustín Peri
+Junior Data Engineer  
+I am a Junior Data Engineer and advanced Data Science student at Universidad Siglo 21. My work focuses on building and automating ETL pipelines to ensure high-quality, scalable data ingestion and processing.  
+Technical Stack
+• Languages: Python and SQL.  
+• Data Engineering: ETL, Databricks, BigQuery, and automation.  
+• Experience: Currently optimizing large-scale datasets and production pipelines at Sicchar.  
+Contact
+• LinkedIn: linkedin.com/in/agustin-peri-551b27331  
+• Email: periagustin55@gmail.com
