@@ -2,7 +2,7 @@ Agustín Peri
 
 Junior Data Engineer
 
-🎓 Advanced Data Science Student at Universidad Siglo 21.
+🎓 Advanced Data Science Student.
 
 🚀 Specialized in building and automating ETL pipelines to ensure high-quality, scalable data ingestion and processing.
 
